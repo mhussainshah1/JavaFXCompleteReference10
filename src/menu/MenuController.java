@@ -10,7 +10,6 @@ import javafx.scene.layout.BorderPane;
 public class MenuController {
     @FXML
     private BorderPane rootNode;
-
     @FXML
     private ContextMenu editMenu;
     @FXML

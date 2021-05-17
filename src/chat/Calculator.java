@@ -20,7 +20,7 @@ public class Calculator extends Application {
     // store operator and operands
     String s0, s1, s2;
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         launch(args);
     }
 
