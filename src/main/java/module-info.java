@@ -1,4 +1,4 @@
-module JavaFXCompleteReference {
+module JavaFXCompleteReference10 {
 
     requires javafx.controls;
     requires javafx.fxml;
